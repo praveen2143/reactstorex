@@ -24,7 +24,7 @@ const App = () => {
 
   useEffect(() => {
     localStorage.setItem("theme", darkMode ? "dark" : "light");
-    document.body.className = darkMode ? "dark" : "light";
+    document.body.className = "dark";
   }, [darkMode]);
 
   const addToCart = (product) => {
@@ -37,7 +37,7 @@ const App = () => {
 
   return (
     <CartContext.Provider value={{ cart, addToCart, removeFromCart }}>
-      <div className={`app ${darkMode ? "dark" : "light"}`}>
+      <div className={`app light`}>
         <Router>
           <nav className="navbar">
             <Link to="/" className="brand">ReactStoreX 🚀</Link>
