@@ -13,11 +13,7 @@
 ## 🛠 Tech Stack
 - **Frontend:** ReactJS, TailwindCSS, JavaScript  
 - **API:** FakeStore API  
-- **Deployment:** Vercel / Netlify  
-
-## 💻 Demo / Screenshots
-![ReactStoreX Screenshot](link-to-image)
-> Experience a modern e-commerce frontend built entirely in ReactJS.
+- **Deployment:** Vercel
 
 ## ⚡ Getting Started
 1. Clone the repository:  
