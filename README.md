@@ -1,5 +1,7 @@
 # ReactStoreX
 
+https://reactstorex.vercel.app/
+
 ## 🚀 Project Overview
 **ReactStoreX** is a mini e-commerce frontend built with ReactJS and TailwindCSS. It integrates with the FakeStore API to provide a seamless shopping experience, complete with browsing, search, cart management, and mock checkout functionality.
 
